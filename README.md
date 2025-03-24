@@ -1,4 +1,4 @@
-# Nelly Usuários - Cadastro de Usuários
+# Nelly Cadastro de Usuários
 
 > Um sistema completo de gerenciamento de usuários desenvolvido como projeto full stack, contendo backend em Node.js com Express e frontend em React.
 
