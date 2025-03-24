@@ -1,0 +1,20 @@
+{
+  "name": "nelly-cadastro",
+  "version": "1.0.0",
+  "description": "cadastro-back-end",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "author": "\"Danielly Pedrini\"",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "prisma": "^6.5.0"
+  }
+}
